@@ -8,6 +8,12 @@
 ### PDCA Calendar PWA
 
 PDCAサイクルで予定を管理するアプリです。
+<img width="709" height="727" alt="スクリーンショット 2026-08-28 7 42 18" src="https://github.com/user-attachments/assets/4794e9bf-2d59-4ef5-a659-466bbc4dbe5e" />
+<img width="715" height="730" alt="スクリーンショット 2026-08-28 7 42 30" src="https://github.com/user-attachments/assets/1b764d1c-c446-4e31-bbab-e55495cf8619" />
+<img width="713" height="725" alt="スクリーンショット 2026-08-28 7 42 44" src="https://github.com/user-attachments/assets/521670d0-493f-40a2-8563-ed1b64e3ff95" />
+
+
+
 
 
 <!--
